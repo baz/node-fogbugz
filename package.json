@@ -6,7 +6,6 @@
   "keywords": ["fogbugz"],
   "dependencies": {
 	"xml2js": ">=0.1.6",
-	"xmlbuilder": ">=0.0.6",
 	"restler": ">=0.2.1"
   },
   "main" : "lib/fogbugz.js",
